@@ -1,7 +1,7 @@
 ### Olá, boas vindas jovem! 🖖
 
 Sou o Idaltchion, e no presente momento estou como Arquiteto de Sistemas em soluções para monitoramento de performance de aplicações web (APM) e sistemas distribuídos. Graduado em Sistemas de Computação pela Universidade Federal Fluminense, estou atualmente estudando e trabalhando para me tornar um Engenheiro de Software com foco em desenvolvimento de aplicações.
-Portanto, nesse repositório você irá encontrar alguns dos projetos que desenvolvo para praticar os conhecimentos adquiridos.
+Portanto, nesse repositório você irá encontrar alguns dos projetos que desenvolvo para praticar os conhecimentos adquiridos ao longo desse processo.
 
 Adoro realizar atividades ao ar livre e aproveitar as belezas que a Natureza proporciona, além de assistir filmes, séries, ler livros e curtir a vida com minha família ✨. Algumas atividades físicas que tenho praticado ultimamente são natação, bicicleta e futebol.
 
